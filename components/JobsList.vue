@@ -1,6 +1,7 @@
 <template>
   <v-container class="fill-height">
     <v-responsive class="align-center text-center fill-height">
+      <v-card-title class="text-h6 text-md-h5 text-lg-h4">Job offers</v-card-title>
 
       <v-text-field
         prepend-inner-icon="mdi-magnify"
